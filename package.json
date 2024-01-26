@@ -1,0 +1,11 @@
+{
+  "name": "calculator",
+  "version": "1.0.0",
+  "description": "Calculator",
+  "main": "app.js",
+  "scripts": {
+    "sass": "node-sass -w SCSS/ -o dist/css/ --recursive"
+  },
+  "author": "addaiflex",
+  "license": "ISC"
+}
